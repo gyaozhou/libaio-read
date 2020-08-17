@@ -8,3 +8,6 @@
 
 /src/libaio.a
 /src/libaio.so*
+
+cscope.out
+cscope.files
